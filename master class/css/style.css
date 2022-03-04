@@ -1,0 +1,66 @@
+
+
+h1 {
+
+    color: blue;
+
+}
+
+body{
+    background-color: rgb(255, 226, 20);
+}
+
+    .sticky {
+    position: fixed;
+    background-color: #fff;
+
+    display: block;
+    z-index: 900;
+    bottom: 0;
+    
+}
+
+    .sticky:hover {
+        background-color:#fff;
+          font-size: 40px;
+    border-radius: 10px;
+    }
+
+   h1:hover {
+     background-color: none;
+         font-weight: bolder;
+        font-size: 40px;
+     border-radius: 10px;
+   }
+
+   p:hover {
+    background-color:rgb(43, 226, 57);
+        font-weight: bolder;
+        font-size: 20px;
+    border-radius: 10px;
+
+
+   }
+
+
+
+   button {
+    background-color: red;
+        font-weight: bolder;
+        font-size: 40px;
+    border-radius: 10px;
+
+   }
+
+   button:hover{
+    text-shadow: 2px 2px white;
+   }
+
+
+  div:hover{
+    img-weight: bolder;
+    img-size: 100px;
+    border-radius: 10px;
+  }
+   
+
